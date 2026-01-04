@@ -42,10 +42,6 @@ Both programs provide detailed output including:
 - Resource allocation states
 - Performance metrics and analysis
 
-## Tags
-
-`operating-systems` `scheduling-algorithms` `fcfs` `round-robin` `bankers-algorithm` `deadlock-avoidance` `c-programming` `cpu-scheduling` `process-management` `resource-allocation`
-
 ## License
 
 Open source - feel free to use for educational purposes.
